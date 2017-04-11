@@ -11,4 +11,4 @@ Once all the above is done, you can run the R script "run_analysis.R" and just t
 
 The output of the R script is a tidy data set, "tidy.csv"
 
-You can read more about the data and the analysis in the code book called CodeBook.md
+You can read more about the data involved in the code book called "CodeBook.md"
